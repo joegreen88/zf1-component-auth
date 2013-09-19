@@ -21,4 +21,4 @@ There is no default auth adapter configured for Zend_Auth so it's up to you to c
 this package each have their own requirements - Zend_Auth_Adapter_DbTable requires Zend_Db_Table, for example. You will
 need to include these dependencies with composer to use these adapters.
 
-You may instead opt to write your own adapter by implementing Zend_Auth_Adapter_Interface.
+You may prefer to write your own adapter by implementing Zend_Auth_Adapter_Interface.
